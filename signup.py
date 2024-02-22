@@ -6,7 +6,7 @@ Builder.load_string("""
 #: import CTextInput custom_widgets
 
 <Signup>:
-    name:"signupp"
+    name:"signup"
     BoxLayout:
         orientation: "vertical"
         padding:dp(20)
