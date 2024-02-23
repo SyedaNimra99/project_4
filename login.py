@@ -67,4 +67,4 @@ Builder.load_string("""
 
 class Login(Screen):
     def switchToSignup(self):
-        self.manager.current='signup'
+        self.manager.current='signupp'
